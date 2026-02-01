@@ -1,0 +1,8 @@
+A minimal offline tool for tracking problem-solving proficiency through color-coded grids.
+
+- No problem content storage, no explanations, no scheduling algorithms
+- Visual proficiency tracking: gray = not attempted, red (light to dark) = needs practice, green = mastered
+- Mark each attempt as correct/incorrect: incorrect deepens red, correct lightens it, light red turns green when correct
+- No account required, no ads, no tracking, fully offline
+
+Perfect for exam prep workflows where you want to focus on solving problems, not managing a complex learning system.
